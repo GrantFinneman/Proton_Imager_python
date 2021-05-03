@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source_dir=~/Projects/Proton_Imager/Project_Data/cubic_tumor_collections/28_28_28_C_tumors
+source_dir=../cubic_tumor_collections/28_28_28_tumors
 files=($source_dir/*mha)
 output_dir=$source_dir
 

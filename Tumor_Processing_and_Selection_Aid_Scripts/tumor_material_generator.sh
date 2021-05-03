@@ -1,6 +1,6 @@
 #!/bin/bash
 
-tumor_directory=/home/gmf/Projects/Proton_Imager/Project_Data/cubic_tumor_collections/28_28_28_C_tumors
+tumor_directory=../cubic_tumor_collections/28_28_28_tumors
 tumor_files=($tumor_directory/*.mha)
 
 index=0
